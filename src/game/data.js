@@ -2,7 +2,7 @@ import { catmullRomClosed, buildPath } from "./trackUtils";
 
 // Official QYNEX assets (uploaded references).
 export const MASCOT_IMG =
-  "file:///E:/Amir%20Adrian%20Zafier/Videos/photo_2026-07-18_21-53-01.jpg";
+  "photo_2026-07-18_21-53-01.jpg";
 export const CAR_IMG =
   "file:///E:/Amir%20Adrian%20Zafier/Videos/photo_2026-09-04_06-03-08.jpg";
 
