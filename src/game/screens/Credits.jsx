@@ -10,8 +10,8 @@ export default function Credits() {
       <div className="max-w-md w-full bg-black/60 border-2 border-yellow-400 rounded-lg p-6 text-center">
         <h1 className="font-mono font-black text-3xl text-yellow-400 mb-4">👤 CREDITS</h1>
         <div className="flex items-center justify-center gap-4 mb-6">
-          <img src={MASCOT_IMG} alt="QYNEX" className="w-24 object-contain" />
-          <img src={CAR_IMG} alt="QYNEX car" className="w-32 object-contain" />
+          <img src={MASCOT_IMG} alt="Q-LYNX" className="w-24 object-contain" />
+          <img src={CAR_IMG} alt="QYNETIC IX RACECAR" className="w-32 object-contain" />
         </div>
         <div className="font-mono text-white/80 text-sm space-y-2 mb-6">
           <p className="text-yellow-400 font-bold text-lg">QYNEX: GREEN CIRCUIT</p>
