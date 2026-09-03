@@ -2,9 +2,9 @@ import { catmullRomClosed, buildPath } from "./trackUtils";
 
 // Official QYNEX assets (uploaded references).
 export const MASCOT_IMG =
-  "https://media.db.com/images/public/6a98658e63ea7357f5d118b5/66b71be9c_Untitleddesign.png";
+  "file:///E:/Amir%20Adrian%20Zafier/Videos/photo_2026-07-18_21-53-01.jpg";
 export const CAR_IMG =
-  "https://media.db.com/images/public/6a98658e63ea7357f5d118b5/703cbe1d1_Untitleddesign.png";
+  "file:///E:/Amir%20Adrian%20Zafier/Videos/photo_2026-09-04_06-03-08.jpg";
 
 // ---- Tracks ----
 // Each track: control points -> smoothed centerline path. Coordinate space ~3000.
