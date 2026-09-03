@@ -4,7 +4,7 @@ import { catmullRomClosed, buildPath } from "./trackUtils";
 export const MASCOT_IMG =
   "photo_2026-07-18_21-53-01.jpg";
 export const CAR_IMG =
-  "file:///E:/Amir%20Adrian%20Zafier/Videos/photo_2026-09-04_06-03-08.jpg";
+  "photo_2026-09-04_06-03-08.jpg";
 
 // ---- Tracks ----
 // Each track: control points -> smoothed centerline path. Coordinate space ~3000.
