@@ -1,0 +1,11 @@
+{
+  "name": "QYNEX: Green Circuit",
+  "short_name": "QYNEX",
+  "description": "A retro-cartoon racing management game.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": []
+}
