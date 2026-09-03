@@ -1,7 +1,7 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/Qynex-Green-Circuit/',
   plugins: [react()],
-});
+  base: '/Qynex-Green-Circuit/', // Make sure the leading and trailing slashes are present
+})
