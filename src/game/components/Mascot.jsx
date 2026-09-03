@@ -20,7 +20,7 @@ export default function Mascot({ mood = "idle", size = 200, speech, showBubble =
       <div className={`relative ${m.anim}`} style={{ width: size, height: size }}>
         <img
           src={MASCOT_IMG}
-          alt="QYNEX mascot"
+          alt="Q-LYNX"
           className={`w-full h-full object-contain drop-shadow-[0_8px_16px_rgba(0,0,0,0.4)] ${m.tint}`}
           draggable={false}
         />
