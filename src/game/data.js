@@ -12,8 +12,8 @@ export const CAR_IMG =
 import { catmullRomClosed, buildPath } from "./trackUtils";
 
 // Import assets from the lib folder with the correct filenames
-import mascotImg from "../lib/photo_2026-07-18_21-53-01.jpg";
-import carImg from "../lib/photo_2026-09-04_06-03-08.jpg";
+import mascotImg from "../lib/photo_2026-07-18_21-53-01.png";
+import carImg from "../lib/photo_2026-09-04_06-03-08.png";
 
 export const MASCOT_IMG = mascotImg;
 export const CAR_IMG = carImg;
